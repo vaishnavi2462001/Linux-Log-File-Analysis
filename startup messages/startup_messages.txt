@@ -1,0 +1,5 @@
+Sep 29 18:26:00 user-virtual-machine avahi-daemon[835]: Server startup complete. Host name is user-virtual-machine.local. Local service cookie is 421105747.
+Sep 29 18:26:01 user-virtual-machine NetworkManager[840]: <info>  [1759150561.4657] manager: startup complete
+Sep 29 18:26:06 user-virtual-machine snapd[867]: daemon.go:353: adjusting startup timeout by 1m20s (pessimistic estimate of 30s plus 5s per snap)
+Sep 29 18:26:09 user-virtual-machine systemd[1044]: Startup finished in 7.177s.
+Sep 29 18:26:14 user-virtual-machine systemd[1]: Startup finished in 15.617s (kernel) + 22.827s (userspace) = 38.445s.
