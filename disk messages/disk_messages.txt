@@ -1,0 +1,4 @@
+[    0.016261] RAMDISK: [mem 0x2eccb000-0x3365cfff]
+[    4.670311] VFS: Disk quotas dquot_6.6.0
+[   11.424573] sd 2:0:0:0: [sda] Attached SCSI disk
+[   13.205792] systemd[1]: systemd 249.11-0ubuntu3.16 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT +GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY -P11KIT -QRENCODE +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
