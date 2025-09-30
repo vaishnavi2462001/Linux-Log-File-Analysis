@@ -1,0 +1,1 @@
+Sep 29 22:42:12 user-virtual-machine sshd[6448]: Accepted password for user from 127.0.0.1 port 47944 ssh2
