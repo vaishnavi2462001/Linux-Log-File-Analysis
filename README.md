@@ -131,11 +131,11 @@ I have verified these 6 commands by retrieving content from the file and checkin
 
 Real-World Applications - 
 
--> Security Monitoring 
+- Security Monitoring 
 
--> System Administration
+- System Administration
 
--> Performance Monitoring
+- Performance Monitoring
 
 
    
